@@ -1,2 +1,2 @@
 # git-demo
-temporary
+First git project.
